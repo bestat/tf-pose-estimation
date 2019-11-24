@@ -24,7 +24,7 @@ You need dependencies below.
 Clone the repo and install 3rd-party libraries.
 
 ```bash
-$ git clone https://www.github.com/ildoonet/tf-pose-estimation
+$ git clone https://www.github.com/bestat/tf-pose-estimation
 $ cd tf-pose-estimation
 $ pip3 install -r requirements.txt
 ```
