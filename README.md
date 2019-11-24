@@ -61,7 +61,7 @@ Input and output image format are all json file. The input json file format is
 img:data
 }
 ```
-here data is the list format of one uint8 image array. For example, [500x500x3] uint8.
+here data is the list format of one uint8 image array. For example, [500x500x3] uint8. For further details, please check generate_json_file.py as a reference. I use this file to create the input.json from p1.jpg.
 
 The output json format is the same as the input json file format.
 
